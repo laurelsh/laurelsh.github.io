@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -26,7 +26,7 @@ latest_posts:
 
 Laurel Hiebert is a Project Scientist at UC Santa Barbara in the labs of Soojin Yi and Tony De Tomaso. Her research interests include developmental plasticity, regeneration, and the evolution of coloniality in marine invertebrates, particularly tunicates—a subphylum of chordates.
 
-interests:
+Interests:
   - Marine Invertebrates
   - Evolution of Organismal Diversity
   - Development
