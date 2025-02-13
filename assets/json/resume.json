@@ -1,24 +1,40 @@
 {
   "basics": {
-    "name": "Laurel Hiebert",
+    "name": "Laurel Sky Hiebert",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "lsh@ucsb.edu",
+    "phone": "",
+    "url": "https://laurelsh.github.io",
+    "summary": "Laurel Hiebert is a Project Scientist at UC Santa Barbara in the labs of Soojin Yi and Tony De Tomaso. Her research interests include developmental plasticity, regeneration, and the evolution of coloniality in marine invertebrates, particularly tunicates—a subphylum of chordates.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "Santa Barbara",
       "countryCode": "US",
       "region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "scopus",
+        "username": "",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=57217571582"
+        "network": "researchgate",
+        "url": "https://www.researchgate.net/profile/Laurel-Hiebert-2"
+        "network": "github",
+        "url": "https://github.com/laurelsh"
+        "network": "linkedin",
+        "url": "https://linkedin.com/in/laurel-hiebert-219808a3"
+        "network": "google-scholar",
+        "url": "https://scholar.google.com/citations?user=-DugkEYAAAAJ&hl=en"
+        "network": "orcid",
+        "url": "https://orcid.org/0000-0001-7756-1066"
+        "network": "clarivate",
+        "url": "https://www.webofscience.com/wos/author/record/B-2436-2018"
+        "network": "lattes",
+        "url": "http://lattes.cnpq.br/8649820995814142"
+        "network": "inaturalist",
+        "url": "https://orcid.org/0000-0001-7756-1066"
       }
     ]
   },
