@@ -194,7 +194,8 @@ exclude:
   - _posts/
   - _pages/news.md
   - _pages/repositories.md
-  - _pages/people.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
 
 keep_files:
   - CNAME
