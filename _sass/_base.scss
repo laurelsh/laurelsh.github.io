@@ -521,6 +521,10 @@ footer.sticky-bottom {
         color: var(--global-card-bg-color) !important;
         background-color: var(--global-theme-color) !important;
       }
+      html[data-theme="light"] .badge {
+        color: #000 !important;
+         background-color: #e0e0e0;
+      }
     }
   }
 }
